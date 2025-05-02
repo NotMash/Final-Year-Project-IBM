@@ -1,0 +1,60 @@
+{
+    "examples": [
+        {
+            "texts": [
+                "What is Data Security?",
+                "Duration: Duration is\n30 mins. Learners: 43 learners have completed this activity in the past 12 months. Available: Available in SB4A since 28 Jun 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Explain the importance of data security.",
+                "Duration: Duration is\n30 mins. Learners: 43 learners have completed this activity in the past 12 months. Available: Available in SB4A since 28 Jun 2023."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is Account Security?",
+                "Duration: Duration is\n30 mins. Learners: 5 learners have completed this activity in the past 12 months. Available: Available in SB4A since 15 Sep 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Describe how account security works.",
+                "Duration: Duration is\n30 mins. Learners: 5 learners have completed this activity in the past 12 months. Available: Available in SB4A since 15 Sep 2023."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is Container Security?",
+                "Duration: Duration is\n30 mins. Learners: 14 learners have completed this activity in the past 12 months. Available: Available in SB4A since 28 Jun 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Explain the principles of container security.",
+                "Duration: Duration is\n30 mins. Learners: 14 learners have completed this activity in the past 12 months. Available: Available in SB4A since 28 Jun 2023."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is Cyber Security Fundamentals | IBM Security Learning Academy?",
+                "Duration: Duration is\n2 hrs 15 mins. Learners: 1069 learners have completed this activity in the past 12 months. Available: Available in SB4A since 02 Mar 2022."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Explain the basics of Cyber Security Fundamentals | IBM Security Learning Academy.",
+                "Duration: Duration is\n2 hrs 15 mins. Learners: 1069 learners have completed this activity in the past 12 months. Available: Available in SB4A since 02 Mar 2022."
+            ],
+            "label": 0.7
+        }
+    ]
+}

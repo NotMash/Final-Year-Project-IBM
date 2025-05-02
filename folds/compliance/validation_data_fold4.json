@@ -1,0 +1,39 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "How do audit practices support security compliance?",
+        "This course provides an in-depth look at compliance frameworks, regulatory standards, and audit practices for securing enterprise environments. Duration: 2 hrs 12 mins. Learners: 29. Available in SB4A since 28 Jan 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What are the key compliance KPIs in this course?",
+        "This course explores the strategic goals and key performance indicators (KPIs) essential for achieving and maintaining security compliance. Duration: 30 mins. Learners: 1. Available in SB4A since 14 Jan 2024."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How can organizations ensure continuous compliance?",
+        "This course explains how to establish and operate a Security and Compliance Center, focusing on real-time monitoring, incident response, and continuous compliance. Duration: 12 mins. Learners: 4. Available in SB4A since 24 Mar 2024."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What regulatory standards are discussed in this course?",
+        "An overview of the various security measures and options available in IBM Cloud, including best practices for implementing robust cloud security. Duration: 12 mins. Learners: 61. Available in SB4A since 28 Aug 2022."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Explain the process of managing compliance services in IBM Cloud.",
+        "This course details the implementation and management of IBM Cloud Security Services, with a focus on protecting cloud resources and data. Duration: 30 mins. Learners: 75. Available in SB4A since 14 Jan 2024."
+      ],
+      "label": 0.9
+    }
+  ]
+}

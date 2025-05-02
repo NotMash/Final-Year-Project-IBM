@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "title": "Security and Compliance Services",
+      "description": "Duration is\n2 hrs 12 mins. Learners: 29. Available since 28 Jan 2023.",
+      "queries": [
+        {"query": "What is a compliance gap analysis?", "label": 1.0},
+        {"query": "How do we conduct security audits for compliance?", "label": 0.8},
+        {"query": "What is container runtime security?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Security and Compliance Center",
+      "description": "Duration is\n12 mins. Learners: 4. Available since 24 Mar 2024.",
+      "queries": [
+        {"query": "How does the compliance center track violations?", "label": 1.0},
+        {"query": "What is automated compliance scanning?", "label": 0.7},
+        {"query": "Explain network port scanning?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Security Measures and Security Options in IBM Cloud",
+      "description": "Duration is\n12 mins. Learners: 61. Available since 28 Aug 2022.",
+      "queries": [
+        {"query": "What is the shared security model in IBM Cloud?", "label": 1.0},
+        {"query": "How do we handle compliance with IBM Cloud services?", "label": 0.7},
+        {"query": "Describe advanced threat detection for endpoints", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Security and Compliance Goals",
+      "description": "Duration is\n30 mins. Learners: 1. Available since 14 Jan 2024.",
+      "queries": [
+        {"query": "What is the role of compliance in security goals?", "label": 1.0},
+        {"query": "Explain governance frameworks in compliance", "label": 0.8},
+        {"query": "What is container orchestration?", "label": 0.1}
+      ]
+    }
+  ]
+}

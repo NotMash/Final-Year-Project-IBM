@@ -1,0 +1,32 @@
+{
+    "examples": [
+        {
+            "texts": [
+                "What is Network Scanning with Zenmap?",
+                "Duration is\n50 mins. Learners: 2316 learners have completed this activity. Available in SB4A since 02 Mar 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Protecting a Device with Malwarebytes?",
+                "Duration is\n55 mins. Learners: 14511 learners have completed this activity. Available in SB4A since 02 Mar 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Security Basics?",
+                "Duration is\n1 hr 15 mins. Learners: 9796 learners have completed this activity. Available in SB4A since 14 Nov 2022."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Storage Security Options?",
+                "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+            ],
+            "label": 1.0
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "courses": [
+        {
+            "title": "What is cybersecurity?",
+            "description": "Duration: Duration is\n1 hr. Learners: 42559 learners have completed this activity in the past 12 months. Available: Available in SB4A since 10 Feb 2021.",
+            "queries": [
+                {"query": "What is cybersecurity?", "label": 1.0},
+                {"query": "Explain the concept of cybersecurity.", "label": 0.8},
+                {"query": "What are common cybersecurity threats?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Cybersecurity Fundamentals (New design; earn a credential!)",
+            "description": "Duration: . Learners: 5081 learners have completed this activity in the past 12 months. Available: .",
+            "queries": [
+                {"query": "What is Cybersecurity Fundamentals (New design; earn a credential!)?", "label": 1.0},
+                {"query": "Describe the fundamentals of modern cybersecurity.", "label": 0.8},
+                {"query": "What is phishing?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Network Scanning with Zenmap",
+            "description": "Duration: Duration is\n50 mins. Learners: 2316 learners have completed this activity in the past 12 months. Available: Available in SB4A since 02 Mar 2023.",
+            "queries": [
+                {"query": "What is Network Scanning with Zenmap?", "label": 1.0},
+                {"query": "Explain how Zenmap scans networks.", "label": 0.8},
+                {"query": "What is port scanning?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Protecting a Device with Malwarebytes",
+            "description": "Duration: Duration is\n55 mins. Learners: 14511 learners have completed this activity in the past 12 months. Available: Available in SB4A since 02 Mar 2023.",
+            "queries": [
+                {"query": "What is Protecting a Device with Malwarebytes?", "label": 1.0},
+                {"query": "Describe how Malwarebytes protects devices.", "label": 0.8},
+                {"query": "What is antivirus software?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Voices of Security",
+            "description": "Duration: Duration is\n15 mins. Learners: 1020 learners have completed this activity in the past 12 months. Available: Available in SB4A since 04 Sep 2019.",
+            "queries": [
+                {"query": "What is Voices of Security?", "label": 1.0},
+                {"query": "Summarize the key messages of Voices of Security.", "label": 0.8},
+                {"query": "What is social engineering?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Testing and Security",
+            "description": "Duration: Duration is\n36 mins. Learners: 5 learners have completed this activity in the past 12 months. Available: Available in SB4A since 24 Mar 2024.",
+            "queries": [
+                {"query": "What is Testing and Security?", "label": 1.0},
+                {"query": "Explain the role of vulnerability assessments.", "label": 0.8},
+                {"query": "What is encryption?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Security Basics",
+            "description": "Duration: Duration is\n1 hr 15 mins. Learners: 9796 learners have completed this activity in the past 12 months. Available: Available in SB4A since 14 Nov 2022.",
+            "queries": [
+                {"query": "What is Security Basics?", "label": 1.0},
+                {"query": "Explain the fundamentals of Security Basics.", "label": 0.8},
+                {"query": "What is blockchain technology?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Security and Compliance Services",
+            "description": "Duration: Duration is\n2 hrs 12 mins. Learners: 29 learners have completed this activity in the past 12 months. Available: Available in SB4A since 28 Jan 2023.",
+            "queries": [
+                {"query": "What is Security and Compliance Services?", "label": 1.0},
+                {"query": "Describe compliance in security services.", "label": 0.8},
+                {"query": "What is multi-cloud infrastructure?", "label": 0.2}
+            ]
+        },
+        {
+            "title": "Security Measures and Security Options in IBM Cloud",
+            "description": "Duration: Duration is\n12 mins. Learners: 61 learners have completed this activity in the past 12 months. Available: Available in SB4A since 28 Aug 2022.",
+            "queries": [
+                {"query": "What is Security Measures and Security Options in IBM Cloud?", "label": 1.0},
+                {"query": "Explain IBM Cloud security measures.", "label": 0.8},
+                {"query": "What is identity access management?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Cloud security | IBM SkillsBuild",
+            "description": "Duration: Duration is\n4 mins. Learners: 95 learners have completed this activity in the past 12 months. Available: Available in SB4A since 13 Mar 2024.",
+            "queries": [
+                {"query": "What is Cloud security | IBM SkillsBuild?", "label": 1.0},
+                {"query": "Describe cloud security as offered by IBM SkillsBuild.", "label": 0.8},
+                {"query": "What is traditional IT security?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "IBM Cloud Security Services",
+            "description": "Duration: Duration is\n30 mins. Learners: 75 learners have completed this activity in the past 12 months. Available: Available in SB4A since 14 Jan 2024.",
+            "queries": [
+                {"query": "What is IBM Cloud Security Services?", "label": 1.0},
+                {"query": "Explain IBM Cloud security services.", "label": 0.8},
+                {"query": "What is IoT security?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Security and Compliance Goals",
+            "description": "Duration: Duration is\n30 mins. Learners: 1 learner has completed this activity in the past 12 months. Available: Available in SB4A since 14 Jan 2024.",
+            "queries": [
+                {"query": "What is Security and Compliance Goals?", "label": 1.0},
+                {"query": "Describe security and compliance objectives.", "label": 0.8},
+                {"query": "What is network segmentation?", "label": 0.2}
+            ]
+        },
+        {
+            "title": "Security Engineer Accelerator Badge",
+            "description": "Duration: Duration is\n30 mins. Learners: 24 learners have completed this activity in the past 12 months. Available: Available in SB4A since 05 Oct 2022.",
+            "queries": [
+                {"query": "What is Security Engineer Accelerator Badge?", "label": 1.0},
+                {"query": "Explain the purpose of a security engineer accelerator badge.", "label": 0.8},
+                {"query": "What is penetration testing?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn",
+            "description": "Duration: Duration is\n1 hr 13 mins. Learners: 7892 learners have completed this activity in the past 12 months. Available: Available in SB4A since 29 May 2020.",
+            "queries": [
+                {"query": "What is Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn?", "label": 1.0},
+                {"query": "Describe the basics covered in the Cyber Security Tutorial.", "label": 0.8},
+                {"query": "What is advanced threat analysis?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "Architecture Considerations for IBM Cloud Security",
+            "description": "Duration: Duration is\n30 mins. Learners: 34 learners have completed this activity in the past 12 months. Available: Available in SB4A since 07 Oct 2023.",
+            "queries": [
+                {"query": "What is Architecture Considerations for IBM Cloud Security?", "label": 1.0},
+                {"query": "Explain IBM Cloud security architecture.", "label": 0.8},
+                {"query": "What is multi-cloud infrastructure?", "label": 0.3}
+            ]
+        },
+        {
+            "title": "IBM Security Expert Lecture Series: Women in Security Excelling",
+            "description": "Duration: Duration is\n54 mins. Learners: 155 learners have completed this activity in the past 12 months. Available: Available in SB4A since 09 Dec 2023.",
+            "queries": [
+                {"query": "What is IBM Security Expert Lecture Series: Women in Security Excelling?", "label": 1.0},
+                {"query": "Describe the impact of the Women in Security lecture series.", "label": 0.8},
+                {"query": "What is a typical cybersecurity challenge?", "label": 0.2}
+            ]
+        }
+    ]
+}

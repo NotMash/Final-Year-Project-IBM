@@ -1,0 +1,18 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is a compliance gap analysis?",
+        "Duration is\n2 hrs 12 mins. Learners: 29. Available since 28 Jan 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Explain governance frameworks in compliance",
+        "Duration is\n30 mins. Learners: 1. Available since 14 Jan 2024."
+      ],
+      "label": 0.8
+    }
+  ]
+}

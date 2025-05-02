@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "title": "Security and Compliance Services",
+      "description": "Duration is\n2 hrs 12 mins. Learners: 29 learners have completed this activity. Available in SB4A since 28 Jan 2023.",
+      "queries": [
+        {"query": "What is Security and Compliance Services?", "label": 1.0},
+        {"query": "Explain security audit and compliance processes.", "label": 0.8},
+        {"query": "What is regulatory compliance in IT?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Security and Compliance Center",
+      "description": "Duration is\n12 mins. Learners: 4 learners have completed this activity. Available in SB4A since 24 Mar 2024.",
+      "queries": [
+        {"query": "What is Security and Compliance Center?", "label": 1.0},
+        {"query": "Describe the function of a compliance center.", "label": 0.8},
+        {"query": "What are compliance reporting requirements?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Security Measures and Security Options in IBM Cloud",
+      "description": "Duration is\n12 mins. Learners: 61 learners have completed this activity. Available in SB4A since 28 Aug 2022.",
+      "queries": [
+        {"query": "What is Security Measures and Security Options in IBM Cloud?", "label": 1.0},
+        {"query": "Explain IBM Cloud security features.", "label": 0.8},
+        {"query": "What is identity access management?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Security and Compliance Goals",
+      "description": "Duration is\n30 mins. Learners: 1 learner has completed this activity. Available in SB4A since 14 Jan 2024.",
+      "queries": [
+        {"query": "What is Security and Compliance Goals?", "label": 1.0},
+        {"query": "Describe the objectives of security compliance.", "label": 0.8},
+        {"query": "What is risk management in security?", "label": 0.2}
+      ]
+    }
+  ]
+}

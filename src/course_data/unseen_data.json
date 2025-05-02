@@ -1,0 +1,116 @@
+{
+    "courses": [
+        {
+            "title": "What is cybersecurity?",
+            "description": "Learn key terminology, concepts, and roles in the cybersecurity field including topics such as encryption, cryptography, and cyberattacks.",
+            "queries": [
+                {"query": "What is cybersecurity and its main objectives?", "expected_relevance": 1.0},
+                {"query": "How does authentication work in cybersecurity?", "expected_relevance": 0.9},
+                {"query": "What are the different types of hackers?", "expected_relevance": 0.8},
+                {"query": "Explain cryptography basics.", "expected_relevance": 0.8},
+                {"query": "What is malware?", "expected_relevance": 0.7},
+                {"query": "How does public-key encryption work?", "expected_relevance": 0.7},
+                {"query": "What is multi-factor authentication?", "expected_relevance": 0.8},
+                {"query": "What are zero-day vulnerabilities?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Network Scanning with Zenmap",
+            "description": "Learn network scanning techniques and tools using Zenmap for security assessment.",
+            "queries": [
+                {"query": "What is network scanning?", "expected_relevance": 1.0},
+                {"query": "How to use Zenmap effectively?", "expected_relevance": 0.9},
+                {"query": "What are common network vulnerabilities?", "expected_relevance": 0.8},
+                {"query": "How to interpret Zenmap results?", "expected_relevance": 0.9},
+                {"query": "What are port scanning techniques?", "expected_relevance": 0.8},
+                {"query": "How to identify network security issues?", "expected_relevance": 0.7},
+                {"query": "What is network topology mapping?", "expected_relevance": 0.7},
+                {"query": "How to configure Zenmap scans?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Protecting a Device with Malwarebytes",
+            "description": "Learn to implement device protection using Malwarebytes security software.",
+            "queries": [
+                {"query": "How to protect devices from malware?", "expected_relevance": 1.0},
+                {"query": "What features does Malwarebytes offer?", "expected_relevance": 0.9},
+                {"query": "How to scan for malware effectively?", "expected_relevance": 0.8},
+                {"query": "What are common malware types?", "expected_relevance": 0.8},
+                {"query": "How to respond to malware detection?", "expected_relevance": 0.7},
+                {"query": "What is real-time protection?", "expected_relevance": 0.7},
+                {"query": "How to configure Malwarebytes settings?", "expected_relevance": 0.8},
+                {"query": "What are quarantine procedures?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Data Security",
+            "description": "Comprehensive coverage of data security principles and practices.",
+            "queries": [
+                {"query": "What is data security?", "expected_relevance": 1.0},
+                {"query": "How to protect sensitive data?", "expected_relevance": 0.9},
+                {"query": "What is data encryption?", "expected_relevance": 0.8},
+                {"query": "How to implement data access controls?", "expected_relevance": 0.8},
+                {"query": "What are data classification levels?", "expected_relevance": 0.7},
+                {"query": "How to prevent data breaches?", "expected_relevance": 0.8},
+                {"query": "What is data backup security?", "expected_relevance": 0.7},
+                {"query": "How to secure data in transit?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Container Security",
+            "description": "Learn security practices for container technologies and deployments.",
+            "queries": [
+                {"query": "What is container security?", "expected_relevance": 1.0},
+                {"query": "How to secure container images?", "expected_relevance": 0.9},
+                {"query": "What are container vulnerabilities?", "expected_relevance": 0.8},
+                {"query": "How to implement container isolation?", "expected_relevance": 0.8},
+                {"query": "What is container orchestration security?", "expected_relevance": 0.7},
+                {"query": "How to scan container images?", "expected_relevance": 0.8},
+                {"query": "What are container security best practices?", "expected_relevance": 0.7},
+                {"query": "How to secure container registries?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Security and Compliance Services",
+            "description": "Understanding security compliance frameworks and services.",
+            "queries": [
+                {"query": "What are security compliance services?", "expected_relevance": 1.0},
+                {"query": "How to achieve regulatory compliance?", "expected_relevance": 0.9},
+                {"query": "What is compliance monitoring?", "expected_relevance": 0.8},
+                {"query": "How to implement compliance controls?", "expected_relevance": 0.8},
+                {"query": "What are compliance frameworks?", "expected_relevance": 0.7},
+                {"query": "How to conduct compliance audits?", "expected_relevance": 0.8},
+                {"query": "What is compliance reporting?", "expected_relevance": 0.7},
+                {"query": "How to maintain compliance?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Cloud Security",
+            "description": "Understanding cloud security principles and IBM Cloud security features.",
+            "queries": [
+                {"query": "What is cloud security?", "expected_relevance": 1.0},
+                {"query": "How to secure cloud workloads?", "expected_relevance": 0.9},
+                {"query": "What are cloud security services?", "expected_relevance": 0.8},
+                {"query": "How to implement cloud access controls?", "expected_relevance": 0.8},
+                {"query": "What is cloud encryption?", "expected_relevance": 0.7},
+                {"query": "How to monitor cloud security?", "expected_relevance": 0.8},
+                {"query": "What are cloud security best practices?", "expected_relevance": 0.7},
+                {"query": "How to secure cloud data?", "expected_relevance": 0.6}
+            ]
+        },
+        {
+            "title": "Security Engineer Accelerator",
+            "description": "Advanced training for security engineering roles and responsibilities.",
+            "queries": [
+                {"query": "What is security engineering?", "expected_relevance": 1.0},
+                {"query": "How to design secure systems?", "expected_relevance": 0.9},
+                {"query": "What are security controls?", "expected_relevance": 0.8},
+                {"query": "How to implement security architecture?", "expected_relevance": 0.8},
+                {"query": "What is threat modeling?", "expected_relevance": 0.7},
+                {"query": "How to evaluate security solutions?", "expected_relevance": 0.8},
+                {"query": "What are security testing methods?", "expected_relevance": 0.7},
+                {"query": "How to manage security incidents?", "expected_relevance": 0.6}
+            ]
+        }
+    ]
+}

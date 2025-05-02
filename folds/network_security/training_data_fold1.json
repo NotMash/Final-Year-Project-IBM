@@ -1,0 +1,148 @@
+{
+  "courses": [
+    {
+      "title": "What is cybersecurity?",
+      "description": "Duration is\n1 hr. Learners: 42559 learners have completed this activity. Available in SB4A since 10 Feb 2021.",
+      "queries": [
+        {"query": "What is cybersecurity?", "label": 1.0},
+        {"query": "Explain cybersecurity fundamentals.", "label": 0.8},
+        {"query": "What are common cyber threats?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Cybersecurity Fundamentals (New design; earn a credential!)",
+      "description": "Learners: 5081 learners have completed this activity. Available: .",
+      "queries": [
+        {"query": "What is Cybersecurity Fundamentals (New design; earn a credential!)?", "label": 1.0},
+        {"query": "Describe modern cybersecurity approaches.", "label": 0.8},
+        {"query": "What is phishing?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Network Scanning with Zenmap",
+      "description": "Duration is\n50 mins. Learners: 2316 learners have completed this activity. Available in SB4A since 02 Mar 2023.",
+      "queries": [
+        {"query": "What is Network Scanning with Zenmap?", "label": 1.0},
+        {"query": "Explain how network scanning works with Zenmap.", "label": 0.8},
+        {"query": "What is port scanning?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Protecting a Device with Malwarebytes",
+      "description": "Duration is\n55 mins. Learners: 14511 learners have completed this activity. Available in SB4A since 02 Mar 2023.",
+      "queries": [
+        {"query": "What is Protecting a Device with Malwarebytes?", "label": 1.0},
+        {"query": "Describe how Malwarebytes protects devices.", "label": 0.8},
+        {"query": "What is antivirus software?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Voices of Security",
+      "description": "Duration is\n15 mins. Learners: 1020 learners have completed this activity. Available in SB4A since 04 Sep 2019.",
+      "queries": [
+        {"query": "What is Voices of Security?", "label": 1.0},
+        {"query": "Summarize the key messages of Voices of Security.", "label": 0.8},
+        {"query": "What is social engineering?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Testing and Security",
+      "description": "Duration is\n36 mins. Learners: 5 learners have completed this activity. Available in SB4A since 24 Mar 2024.",
+      "queries": [
+        {"query": "What is Testing and Security?", "label": 1.0},
+        {"query": "Explain vulnerability assessment methods.", "label": 0.8},
+        {"query": "What is a firewall?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Account Security",
+      "description": "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023.",
+      "queries": [
+        {"query": "What is Account Security?", "label": 1.0},
+        {"query": "Describe methods to secure user accounts.", "label": 0.8},
+        {"query": "What is phishing?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Container Security",
+      "description": "Duration is\n30 mins. Learners: 14 learners have completed this activity. Available in SB4A since 28 Jun 2023.",
+      "queries": [
+        {"query": "What is Container Security?", "label": 1.0},
+        {"query": "Explain the principles of container security.", "label": 0.8},
+        {"query": "What is container isolation?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Security Basics",
+      "description": "Duration is\n1 hr 15 mins. Learners: 9796 learners have completed this activity. Available in SB4A since 14 Nov 2022.",
+      "queries": [
+        {"query": "What is Security Basics?", "label": 1.0},
+        {"query": "Explain the fundamentals of security.", "label": 0.8},
+        {"query": "What is encryption?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Cloud security | IBM SkillsBuild",
+      "description": "Duration is\n4 mins. Learners: 95 learners have completed this activity. Available in SB4A since 13 Mar 2024.",
+      "queries": [
+        {"query": "What is Cloud security | IBM SkillsBuild?", "label": 1.0},
+        {"query": "Describe the cloud security offering by IBM SkillsBuild.", "label": 0.8},
+        {"query": "What is traditional IT security?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "IBM Cloud Security Services",
+      "description": "Duration is\n30 mins. Learners: 75 learners have completed this activity. Available in SB4A since 14 Jan 2024.",
+      "queries": [
+        {"query": "What is IBM Cloud Security Services?", "label": 1.0},
+        {"query": "Explain IBM Cloud Security Services.", "label": 0.8},
+        {"query": "What is IoT security?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Cyber Security Fundamentals | IBM Security Learning Academy",
+      "description": "Duration is\n2 hrs 15 mins. Learners: 1069 learners have completed this activity. Available in SB4A since 02 Mar 2022.",
+      "queries": [
+        {"query": "What is Cyber Security Fundamentals | IBM Security Learning Academy?", "label": 1.0},
+        {"query": "Explain the basics of IBM Security Learning Academy.", "label": 0.8},
+        {"query": "What is advanced threat detection?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Security Engineer Accelerator Badge",
+      "description": "Duration is\n30 mins. Learners: 24 learners have completed this activity. Available in SB4A since 05 Oct 2022.",
+      "queries": [
+        {"query": "What is Security Engineer Accelerator Badge?", "label": 1.0},
+        {"query": "Describe the purpose of the accelerator badge.", "label": 0.8},
+        {"query": "What is penetration testing?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn",
+      "description": "Duration is\n1 hr 13 mins. Learners: 7892 learners have completed this activity. Available in SB4A since 29 May 2020.",
+      "queries": [
+        {"query": "What is Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn?", "label": 1.0},
+        {"query": "Explain the basics of cybersecurity training for beginners.", "label": 0.8},
+        {"query": "What is advanced threat analysis?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "Architecture Considerations for IBM Cloud Security",
+      "description": "Duration is\n30 mins. Learners: 34 learners have completed this activity. Available in SB4A since 07 Oct 2023.",
+      "queries": [
+        {"query": "What is Architecture Considerations for IBM Cloud Security?", "label": 1.0},
+        {"query": "Explain IBM Cloud Security architecture considerations.", "label": 0.8},
+        {"query": "What is multi-cloud infrastructure?", "label": 0.3}
+      ]
+    },
+    {
+      "title": "IBM Security Expert Lecture Series: Women in Security Excelling",
+      "description": "Duration is\n54 mins. Learners: 155 learners have completed this activity. Available in SB4A since 09 Dec 2023.",
+      "queries": [
+        {"query": "What is IBM Security Expert Lecture Series: Women in Security Excelling?", "label": 1.0},
+        {"query": "Describe the impact of the lecture series on security practices.", "label": 0.8},
+        {"query": "What is a common cybersecurity challenge?", "label": 0.3}
+      ]
+    }
+  ]
+}

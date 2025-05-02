@@ -1,0 +1,100 @@
+{
+  "courses": [
+    {
+      "title": "Security and Compliance Services",
+      "description": "This course provides an in-depth look at compliance frameworks, regulatory standards, and audit practices for securing enterprise environments. Duration: 2 hrs 12 mins. Learners: 29. Available in SB4A since 28 Jan 2023.",
+      "queries": [
+        {"query": "What are Security and Compliance Services?", "label": 1.0},
+        {"query": "Explain the compliance frameworks and regulatory standards discussed in this course.", "label": 0.95},
+        {"query": "How do audit practices ensure effective security and compliance?", "label": 0.95},
+        {"query": "List key features of Security and Compliance Services.", "label": 1.0},
+        {"query": "What regulatory requirements are addressed in this course?", "label": 0.9},
+        {"query": "Describe the role of risk management in compliance services.", "label": 0.9},
+        {"query": "How can companies improve their audit processes?", "label": 0.85},
+        {"query": "What are the common challenges in implementing security compliance services?", "label": 0.85},
+        {"query": "Discuss best practices for ensuring compliance in a cloud environment.", "label": 0.8},
+        {"query": "What is encryption?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Security and Compliance Center",
+      "description": "This course explains how to establish and operate a Security and Compliance Center, focusing on real-time monitoring, incident response, and continuous compliance. Duration: 12 mins. Learners: 4. Available in SB4A since 24 Mar 2024.",
+      "queries": [
+        {"query": "What is a Security and Compliance Center?", "label": 1.0},
+        {"query": "How do you implement a Security and Compliance Center within an organization?", "label": 0.95},
+        {"query": "List the core functions of a Security and Compliance Center.", "label": 1.0},
+        {"query": "Describe the role of incident response in a compliance center.", "label": 0.9},
+        {"query": "How does real-time monitoring aid in compliance?", "label": 0.9},
+        {"query": "What technologies support the operation of a Security and Compliance Center?", "label": 0.85},
+        {"query": "Explain how automation is used in compliance centers.", "label": 0.85},
+        {"query": "What is the importance of continuous compliance?", "label": 0.9},
+        {"query": "What are the benefits of establishing a Security and Compliance Center?", "label": 0.95},
+        {"query": "Define basic network security.", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Security Measures and Security Options in IBM Cloud",
+      "description": "An overview of the various security measures and options available in IBM Cloud, including best practices for implementing robust cloud security. Duration: 12 mins. Learners: 61. Available in SB4A since 28 Aug 2022.",
+      "queries": [
+        {"query": "What are Security Measures and Security Options in IBM Cloud?", "label": 1.0},
+        {"query": "Describe the key security options available for IBM Cloud.", "label": 0.95},
+        {"query": "How can IBM Cloud be secured using various security measures?", "label": 0.95},
+        {"query": "What best practices are recommended for cloud security in IBM Cloud?", "label": 0.9},
+        {"query": "How does multi-factor authentication improve IBM Cloud security?", "label": 0.9},
+        {"query": "What role does encryption play in securing IBM Cloud?", "label": 0.85},
+        {"query": "Explain the concept of data integrity in IBM Cloud security.", "label": 0.85},
+        {"query": "What are common vulnerabilities in cloud environments?", "label": 0.2},
+        {"query": "Discuss the importance of compliance in IBM Cloud security.", "label": 0.9},
+        {"query": "How does risk management apply to cloud security?", "label": 0.85}
+      ]
+    },
+    {
+      "title": "IBM Cloud Security Services",
+      "description": "This course details the implementation and management of IBM Cloud Security Services, with a focus on protecting cloud resources and data. Duration: 30 mins. Learners: 75. Available in SB4A since 14 Jan 2024.",
+      "queries": [
+        {"query": "What are IBM Cloud Security Services?", "label": 1.0},
+        {"query": "How do IBM Cloud Security Services protect cloud resources?", "label": 0.95},
+        {"query": "List the key components of IBM Cloud Security Services.", "label": 1.0},
+        {"query": "Explain the process of managing IBM Cloud Security Services.", "label": 0.9},
+        {"query": "What benefits do IBM Cloud Security Services offer to organizations?", "label": 0.95},
+        {"query": "How can incident response be improved using IBM Cloud Security Services?", "label": 0.9},
+        {"query": "What is the role of identity and access management in IBM Cloud Security Services?", "label": 0.85},
+        {"query": "Discuss how IBM Cloud Security Services ensure data confidentiality.", "label": 0.85},
+        {"query": "How are network vulnerabilities addressed in IBM Cloud Security Services?", "label": 0.8},
+        {"query": "What is phishing?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Security and Compliance Goals",
+      "description": "This course explores the strategic goals and key performance indicators (KPIs) essential for achieving and maintaining security compliance. Duration: 30 mins. Learners: 1. Available in SB4A since 14 Jan 2024.",
+      "queries": [
+        {"query": "What are Security and Compliance Goals?", "label": 1.0},
+        {"query": "Explain how organizations set security and compliance goals.", "label": 0.95},
+        {"query": "List common KPIs used to measure compliance success.", "label": 0.95},
+        {"query": "How do security and compliance goals influence audit practices?", "label": 0.9},
+        {"query": "What strategies help achieve effective security compliance?", "label": 0.9},
+        {"query": "How can performance indicators improve compliance outcomes?", "label": 0.85},
+        {"query": "Describe the relationship between risk management and compliance goals.", "label": 0.85},
+        {"query": "What is the impact of regulatory changes on compliance goals?", "label": 0.8},
+        {"query": "How do you measure success in a compliance program?", "label": 0.95},
+        {"query": "What is network traffic monitoring?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Cybersecurity Fundamentals (New design; earn a credential!)",
+      "description": "An introductory course to cybersecurity with an emphasis on compliance, covering essential frameworks, best practices, and regulatory requirements. Duration: Variable. Learners: 5081. (No specific duration provided.)",
+      "queries": [
+        {"query": "What are the Cybersecurity Fundamentals in the new design?", "label": 1.0},
+        {"query": "Describe the core compliance principles covered in this course.", "label": 0.95},
+        {"query": "How do cybersecurity fundamentals relate to regulatory compliance?", "label": 0.9},
+        {"query": "What are the key components of cybersecurity compliance?", "label": 0.95},
+        {"query": "How can organizations earn a cybersecurity credential through this course?", "label": 0.9},
+        {"query": "Explain the audit process in cybersecurity fundamentals.", "label": 0.85},
+        {"query": "What are the challenges in implementing cybersecurity frameworks?", "label": 0.8},
+        {"query": "List the benefits of having a cybersecurity credential.", "label": 0.85},
+        {"query": "How does compliance affect cybersecurity strategies?", "label": 0.9},
+        {"query": "What is data encryption?", "label": 0.1}
+      ]
+    }
+  ]
+}

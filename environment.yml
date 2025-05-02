@@ -1,0 +1,8 @@
+name: finalyearproject
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - faiss-cpu
+prefix: /opt/anaconda3/envs/finalyearproject

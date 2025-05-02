@@ -1,0 +1,284 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is Data Security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Define data security.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Explain data security.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How do you protect data?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "What measures ensure data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Discuss best practices for data protection.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "How can data be safeguarded?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Describe methods to secure data.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "What are the key principles of data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Outline the strategies for protecting data.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What is the role of encryption in data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "List common data protection techniques.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "How does access control improve data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What challenges exist in data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.7
+    },
+    {
+      "texts": [
+        "How can data be kept secure from hackers?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Explain the importance of data security in business.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How is data security maintained in cloud environments?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What policies support data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.7
+    },
+    {
+      "texts": [
+        "How do organizations implement data security measures?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What is the impact of poor data security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.6
+    },
+    {
+      "texts": [
+        "What is Storage Security Options?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Define storage security.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Explain storage security options.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How do you secure storage systems?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Describe storage access control mechanisms.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "What methods are used for storage security?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "List techniques to protect storage systems.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What are the challenges in securing storage infrastructure?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "How can storage be protected from unauthorized access?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Discuss best practices for storage security.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What role does encryption play in storage security?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "How do storage security solutions work?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "Explain the importance of storage security in data protection.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What are the risks associated with unsecured storage?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.7
+    },
+    {
+      "texts": [
+        "How is storage security implemented in cloud systems?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "Describe the protocols used for securing storage.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What are the benefits of strong storage security?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "How do access controls improve storage security?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "Discuss challenges in managing storage security.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.7
+    },
+    {
+      "texts": [
+        "What innovative methods are available for storage security?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    }
+  ]
+}

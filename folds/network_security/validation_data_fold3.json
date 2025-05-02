@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "How do we secure an enterprise network?",
+        "Duration is\n1 hr. Learners: 42559. Available since 10 Feb 2021."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is zero trust model?",
+        "Duration is\n55 mins. Learners: 14511. Available since 02 Mar 2023."
+      ],
+      "label": 0.2
+    },
+    {
+      "texts": [
+        "How do we discover hosts with Zenmap?",
+        "Duration is\n50 mins. Learners: 2316. Available since 02 Mar 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What are the architectural considerations for secure networks?",
+        "Duration is\n30 mins. Learners: 34. Available since 07 Oct 2023."
+      ],
+      "label": 1.0
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "courses": [
+    {
+      "title": "What is cybersecurity?",
+      "description": "Duration is\n1 hr. Learners: 42559. Available since 10 Feb 2021.",
+      "queries": [
+        {"query": "How do we secure an enterprise network?", "label": 1.0},
+        {"query": "Explain modern cyber threat vectors", "label": 0.8},
+        {"query": "What is data encryption at rest?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Cybersecurity Fundamentals (New design; earn a credential!)",
+      "description": "Learners: 5081. Available: .",
+      "queries": [
+        {"query": "What is a cybersecurity credential program?", "label": 1.0},
+        {"query": "How do we build fundamental security skills?", "label": 0.8},
+        {"query": "What is compliance scanning?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Network Scanning with Zenmap",
+      "description": "Duration is\n50 mins. Learners: 2316. Available since 02 Mar 2023.",
+      "queries": [
+        {"query": "What is Zenmap scanning for networks?", "label": 1.0},
+        {"query": "How to discover hosts with Zenmap?", "label": 0.8},
+        {"query": "What is risk assessment for compliance?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Protecting a Device with Malwarebytes",
+      "description": "Duration is\n55 mins. Learners: 14511. Available since 02 Mar 2023.",
+      "queries": [
+        {"query": "How does Malwarebytes block malware?", "label": 1.0},
+        {"query": "Explain real-time protection for devices", "label": 0.8},
+        {"query": "What is zero trust model?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Voices of Security",
+      "description": "Duration is\n15 mins. Learners: 1020. Available since 04 Sep 2019.",
+      "queries": [
+        {"query": "What is the key message of Voices of Security?", "label": 1.0},
+        {"query": "Explain the importance of user awareness", "label": 0.8},
+        {"query": "What are encryption algorithms?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Testing and Security",
+      "description": "Duration is\n36 mins. Learners: 5. Available since 24 Mar 2024.",
+      "queries": [
+        {"query": "What is security testing methodology?", "label": 1.0},
+        {"query": "How to run vulnerability scans effectively?", "label": 0.8},
+        {"query": "What is storage at scale?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Account Security",
+      "description": "Duration is\n30 mins. Learners: 5. Available since 15 Sep 2023.",
+      "queries": [
+        {"query": "How do we secure account credentials?", "label": 1.0},
+        {"query": "What is multi-factor authentication usage?", "label": 0.8},
+        {"query": "Explain container images security?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Container Security",
+      "description": "Duration is\n30 mins. Learners: 14. Available since 28 Jun 2023.",
+      "queries": [
+        {"query": "What is container scanning for vulnerabilities?", "label": 1.0},
+        {"query": "How do we isolate containers from the network?", "label": 0.8},
+        {"query": "What is compliance reporting?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Security Basics",
+      "description": "Duration is\n1 hr 15 mins. Learners: 9796. Available since 14 Nov 2022.",
+      "queries": [
+        {"query": "What is a baseline security posture?", "label": 1.0},
+        {"query": "Explain fundamental risk management", "label": 0.7},
+        {"query": "What is GDPR compliance?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Cloud security | IBM SkillsBuild",
+      "description": "Duration is\n4 mins. Learners: 95. Available since 13 Mar 2024.",
+      "queries": [
+        {"query": "What is IBM SkillsBuild cloud security course?", "label": 1.0},
+        {"query": "Explain cloud-based threat detection", "label": 0.7},
+        {"query": "What is compliance center usage?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "IBM Cloud Security Services",
+      "description": "Duration is\n30 mins. Learners: 75. Available since 14 Jan 2024.",
+      "queries": [
+        {"query": "How do IBM Cloud Security Services protect networks?", "label": 1.0},
+        {"query": "What is threat intelligence in the cloud?", "label": 0.8},
+        {"query": "Describe advanced data encryption methods", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Cyber Security Fundamentals | IBM Security Learning Academy",
+      "description": "Duration is\n2 hrs 15 mins. Learners: 1069. Available since 02 Mar 2022.",
+      "queries": [
+        {"query": "What is the IBM Security Learning Academy fundamentals course?", "label": 1.0},
+        {"query": "Explain the basics of advanced threat analysis", "label": 0.8},
+        {"query": "What is compliance auditing software?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Security Engineer Accelerator Badge",
+      "description": "Duration is\n30 mins. Learners: 24. Available since 05 Oct 2022.",
+      "queries": [
+        {"query": "What is the Security Engineer Accelerator Badge program?", "label": 1.0},
+        {"query": "How do security engineers test networks?", "label": 0.8},
+        {"query": "Explain data classification for storage?", "label": 0.1}
+      ]
+    },
+    {
+      "title": "Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn",
+      "description": "Duration is\n1 hr 13 mins. Learners: 7892. Available since 29 May 2020.",
+      "queries": [
+        {"query": "How do beginners learn about network security?", "label": 1.0},
+        {"query": "Explain the fundamentals of a cyber tutorial", "label": 0.7},
+        {"query": "What is compliance risk analysis?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "Architecture Considerations for IBM Cloud Security",
+      "description": "Duration is\n30 mins. Learners: 34. Available since 07 Oct 2023.",
+      "queries": [
+        {"query": "What are the architectural considerations for secure networks?", "label": 1.0},
+        {"query": "How do we design multi-cloud security architecture?", "label": 0.8},
+        {"query": "What is a data security option?", "label": 0.2}
+      ]
+    },
+    {
+      "title": "IBM Security Expert Lecture Series: Women in Security Excelling",
+      "description": "Duration is\n54 mins. Learners: 155. Available since 09 Dec 2023.",
+      "queries": [
+        {"query": "What is Women in Security Excelling about network threats?", "label": 1.0},
+        {"query": "Describe the role of women in advanced threat detection", "label": 0.7},
+        {"query": "What is data retention for compliance?", "label": 0.2}
+      ]
+    }
+  ]
+}

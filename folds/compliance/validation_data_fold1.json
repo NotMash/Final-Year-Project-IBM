@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is Security and Compliance Services?",
+        "Duration is\n2 hrs 12 mins. Learners: 29 learners have completed this activity. Available in SB4A since 28 Jan 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Security and Compliance Center?",
+        "Duration is\n12 mins. Learners: 4 learners have completed this activity. Available in SB4A since 24 Mar 2024."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Security Measures and Security Options in IBM Cloud?",
+        "Duration is\n12 mins. Learners: 61 learners have completed this activity. Available in SB4A since 28 Aug 2022."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Security and Compliance Goals?",
+        "Duration is\n30 mins. Learners: 1 learner has completed this activity. Available in SB4A since 14 Jan 2024."
+      ],
+      "label": 1.0
+    }
+  ]
+}

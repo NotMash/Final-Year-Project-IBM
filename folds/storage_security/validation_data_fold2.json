@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is Data Security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Define data security.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How do you protect data?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "What are encryption methods for data at rest?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.3
+    },
+    {
+      "texts": [
+        "What is Storage Security Options?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Define storage security.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How do you secure storage systems?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "What are the challenges in securing storage infrastructure?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    }
+  ]
+}

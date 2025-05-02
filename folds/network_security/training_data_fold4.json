@@ -1,0 +1,115 @@
+{
+  "courses": [
+    {
+      "title": "Network Scanning with Zenmap",
+      "description": "Learn network scanning techniques using Zenmap. This course covers the basics of scanning networks to identify vulnerabilities, port scanning, and interpreting scan results. Duration: 50 mins. Learners: 2316. Available in SB4A since 02 Mar 2023.",
+      "queries": [
+        {"query": "How do you perform network scanning with Zenmap?", "label": 1.0},
+        {"query": "What are the best practices for network scanning using Zenmap?", "label": 0.9},
+        {"query": "How can I detect open ports on a network with Zenmap?", "label": 1.0},
+        {"query": "What is the difference between network scanning and vulnerability scanning?", "label": 0.8},
+        {"query": "How do I interpret Zenmap scan results?", "label": 1.0}
+      ]
+    },
+    {
+      "title": "Testing and Security",
+      "description": "This course introduces testing methodologies in cybersecurity including penetration testing, vulnerability assessments, and risk analysis. Duration: 36 mins. Learners: 5. Available in SB4A since 24 Mar 2024.",
+      "queries": [
+        {"query": "How do you perform a penetration test?", "label": 1.0},
+        {"query": "What are the key steps in security testing for networks?", "label": 1.0},
+        {"query": "Explain vulnerability assessments in a network context.", "label": 0.9},
+        {"query": "How do you test network defenses?", "label": 0.8},
+        {"query": "What is the process for ethical hacking during network testing?", "label": 0.7}
+      ]
+    },
+    {
+      "title": "Account Security",
+      "description": "Focuses on securing user accounts and authentication mechanisms to prevent unauthorized access. Duration: 30 mins. Learners: 5. Available in SB4A since 15 Sep 2023.",
+      "queries": [
+        {"query": "How can you secure user accounts effectively?", "label": 1.0},
+        {"query": "What are the best practices for multi-factor authentication in a network?", "label": 1.0},
+        {"query": "How does account security contribute to overall network protection?", "label": 0.9},
+        {"query": "What common vulnerabilities affect account security?", "label": 0.8}
+      ]
+    },
+    {
+      "title": "Container Security",
+      "description": "Learn strategies to secure containerized environments, including Docker and Kubernetes security practices. Duration: 30 mins. Learners: 14. Available in SB4A since 28 Jun 2023.",
+      "queries": [
+        {"query": "How do you secure container deployments?", "label": 1.0},
+        {"query": "What are the common security risks in containerized environments?", "label": 1.0},
+        {"query": "Explain Docker security best practices.", "label": 0.9},
+        {"query": "How do Kubernetes security policies work?", "label": 0.9}
+      ]
+    },
+    {
+      "title": "Cyber Security Fundamentals | IBM Security Learning Academy",
+      "description": "This course covers the fundamentals of cybersecurity, with an emphasis on network defense, threat detection, and incident response. Duration: 2 hrs 15 mins. Learners: 1069. Available in SB4A since 02 Mar 2022.",
+      "queries": [
+        {"query": "What are the key network defense strategies covered in this course?", "label": 1.0},
+        {"query": "How does IBM Security Learning Academy explain threat detection?", "label": 1.0},
+        {"query": "What topics in network protection are included in this course?", "label": 0.9},
+        {"query": "Describe the incident response techniques taught in this course.", "label": 0.8}
+      ]
+    },
+    {
+      "title": "Security Engineer Accelerator Badge",
+      "description": "Designed to accelerate your career as a security engineer, this course covers essential skills, tools, and methodologies in network security. Duration: 30 mins. Learners: 24. Available in SB4A since 05 Oct 2022.",
+      "queries": [
+        {"query": "What is covered in the Security Engineer Accelerator Badge course?", "label": 1.0},
+        {"query": "How do you become a certified security engineer in network environments?", "label": 0.9},
+        {"query": "What tools are essential for a security engineer working on networks?", "label": 0.8}
+      ]
+    },
+    {
+      "title": "Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn",
+      "description": "An introductory course for beginners covering basic cybersecurity concepts, tools, and practices with a focus on network security. Duration: 1 hr 13 mins. Learners: 7892. Available in SB4A since 29 May 2020.",
+      "queries": [
+        {"query": "What are the fundamentals of network security taught in this tutorial?", "label": 1.0},
+        {"query": "How can beginners start learning about network security?", "label": 1.0},
+        {"query": "What topics does the Cyber Security Tutorial include regarding networks?", "label": 0.9}
+      ]
+    },
+    {
+      "title": "Architecture Considerations for IBM Cloud Security",
+      "description": "This course discusses the design and architecture of secure cloud systems with a focus on network security and infrastructure best practices. Duration: 30 mins. Learners: 34. Available in SB4A since 07 Oct 2023.",
+      "queries": [
+        {"query": "What are the key architecture considerations for IBM Cloud Security in networks?", "label": 1.0},
+        {"query": "How does network security integrate into cloud infrastructure?", "label": 0.9},
+        {"query": "What best practices for network architecture are recommended in this course?", "label": 0.8}
+      ]
+    },
+    {
+      "title": "IBM Cloud Security Services",
+      "description": "An overview of IBM's cloud security offerings, focusing on securing cloud infrastructures and network services. Duration: 30 mins. Learners: 75. Available in SB4A since 14 Jan 2024.",
+      "queries": [
+        {"query": "What does IBM Cloud Security Services cover for network protection?", "label": 1.0},
+        {"query": "How do IBM Cloud Security Services secure network infrastructure?", "label": 0.9}
+      ]
+    },
+    {
+      "title": "Security and Compliance Goals",
+      "description": "Learn about setting and achieving security and compliance goals that impact network security. Duration: 30 mins. Learners: 1. Available in SB4A since 14 Jan 2024.",
+      "queries": [
+        {"query": "What are the network-related Security and Compliance Goals in this course?", "label": 1.0},
+        {"query": "How do you set network security targets in a compliance framework?", "label": 0.9}
+      ]
+    },
+    {
+      "title": "Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn",
+      "description": "An introductory course that covers various aspects of cybersecurity with a module on network security fundamentals. Duration: 1 hr 13 mins. Learners: 7892. Available in SB4A since 29 May 2020.",
+      "queries": [
+        {"query": "How does the tutorial explain network security for beginners?", "label": 1.0},
+        {"query": "What network security concepts are introduced in this course?", "label": 0.9}
+      ]
+    },
+    {
+      "title": "Security Engineer Accelerator Badge",
+      "description": "Designed for aspiring security engineers, this course provides hands-on training on network defense, monitoring, and incident response. Duration: 30 mins. Learners: 24. Available in SB4A since 05 Oct 2022.",
+      "queries": [
+        {"query": "What network defense strategies are covered in the Security Engineer Accelerator Badge course?", "label": 1.0},
+        {"query": "How does the course prepare you for network security challenges?", "label": 0.9}
+      ]
+    }
+  ]
+}

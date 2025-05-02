@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "How do we achieve PCI-DSS compliance?",
+        "Duration is\n2 hrs 12 mins. Learners: 29. Available: 28 Jan 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How does the compliance center handle reporting?",
+        "Duration is\n12 mins. Learners: 4. Available: 24 Mar 2024."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How does IAM help with compliance?",
+        "Duration is\n12 mins. Learners: 61. Available: 28 Aug 2022."
+      ],
+      "label": 0.7
+    },
+    {
+      "texts": [
+        "What is container security?",
+        "Duration is\n30 mins. Learners: 1. Available: 14 Jan 2024."
+      ],
+      "label": 0.2
+    }
+  ]
+}

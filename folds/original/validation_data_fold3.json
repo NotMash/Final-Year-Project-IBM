@@ -1,0 +1,32 @@
+{
+    "examples": [
+        {
+            "texts": [
+                "What is IBM Security Expert Lecture Series: Women in Security Excelling?",
+                "Duration: Duration is\n54 mins. Learners: 155 learners have completed this activity in the past 12 months. Available: Available in SB4A since 09 Dec 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Voices of Security?",
+                "Duration: Duration is\n15 mins. Learners: 1020 learners have completed this activity in the past 12 months. Available: Available in SB4A since 04 Sep 2019."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn?",
+                "Duration: Duration is\n1 hr 13 mins. Learners: 7892 learners have completed this activity in the past 12 months. Available: Available in SB4A since 29 May 2020."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Security and Compliance Goals?",
+                "Duration: Duration is\n30 mins. Learners: 1 learner has completed this activity in the past 12 months. Available: Available in SB4A since 14 Jan 2024."
+            ],
+            "label": 1.0
+        }
+    ]
+}

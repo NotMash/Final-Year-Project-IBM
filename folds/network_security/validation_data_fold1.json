@@ -1,0 +1,39 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is cybersecurity?",
+        "Duration is\n1 hr. Learners: 42559 learners have completed this activity. Available in SB4A since 10 Feb 2021."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Network Scanning with Zenmap?",
+        "Duration is\n50 mins. Learners: 2316 learners have completed this activity. Available in SB4A since 02 Mar 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Protecting a Device with Malwarebytes?",
+        "Duration is\n55 mins. Learners: 14511 learners have completed this activity. Available in SB4A since 02 Mar 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Cyber Security Fundamentals | IBM Security Learning Academy?",
+        "Duration is\n2 hrs 15 mins. Learners: 1069 learners have completed this activity. Available in SB4A since 02 Mar 2022."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What is Security Engineer Accelerator Badge?",
+        "Duration is\n30 mins. Learners: 24 learners have completed this activity. Available in SB4A since 05 Oct 2022."
+      ],
+      "label": 1.0
+    }
+  ]
+}

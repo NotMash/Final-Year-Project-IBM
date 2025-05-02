@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "How do you perform network scanning with Zenmap?",
+        "Learn network scanning techniques using Zenmap. This course covers the basics of scanning networks to identify vulnerabilities, port scanning, and interpreting scan results. Duration: 50 mins. Learners: 2316. Available in SB4A since 02 Mar 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What are the best practices for network scanning using Zenmap?",
+        "Learn network scanning techniques using Zenmap. This course covers the basics of scanning networks to identify vulnerabilities, port scanning, and interpreting scan results. Duration: 50 mins. Learners: 2316. Available in SB4A since 02 Mar 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "How do you secure container deployments?",
+        "Learn strategies to secure containerized environments, including Docker and Kubernetes security practices. Duration: 30 mins. Learners: 14. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What common vulnerabilities affect account security?",
+        "Focuses on securing user accounts and authentication mechanisms to prevent unauthorized access. Duration: 30 mins. Learners: 5. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What are the key network defense strategies covered in IBM Security Learning Academy?",
+        "This course covers the fundamentals of cybersecurity, with an emphasis on network defense, threat detection, and incident response. Duration: 2 hrs 15 mins. Learners: 1069. Available in SB4A since 02 Mar 2022."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What topics does the Container Security course address?",
+        "Learn strategies to secure containerized environments, including Docker and Kubernetes security practices. Duration: 30 mins. Learners: 14. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "How can a security engineer protect network assets?",
+        "Designed to accelerate your career as a security engineer, this course covers essential skills, tools, and methodologies in network security. Duration: 30 mins. Learners: 24. Available in SB4A since 05 Oct 2022."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What does IBM Cloud Security Services offer for networks?",
+        "An overview of IBM's cloud security offerings, focusing on securing cloud infrastructures and network services. Duration: 30 mins. Learners: 75. Available in SB4A since 14 Jan 2024."
+      ],
+      "label": 1.0
+    }
+  ]
+}

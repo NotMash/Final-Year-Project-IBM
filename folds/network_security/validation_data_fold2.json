@@ -1,0 +1,39 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is cybersecurity best practice?",
+        "Duration is\n1 hr. Learners: 42559. Available: 10 Feb 2021."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Explain the fundamentals of cybersecurity credentials.",
+        "Learners: 5081. Available: ."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How do we detect open ports with Zenmap?",
+        "Duration is\n50 mins. Learners: 2316. Available: 02 Mar 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "Describe how Malwarebytes protects devices.",
+        "Duration is\n55 mins. Learners: 14511. Available: 02 Mar 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What is container runtime security?",
+        "Duration is\n30 mins. Learners: 14. Available: 28 Jun 2023."
+      ],
+      "label": 1.0
+    }
+  ]
+}

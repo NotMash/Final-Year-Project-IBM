@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "title": "Network Scanning with Zenmap",
+            "description": "Duration: Duration is\n50 mins. Learners: 2316 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 02 Mar 2023.",
+            "queries": [
+                {
+                    "query": "What is Network Scanning with Zenmap?",
+                    "label": 1.0
+                },
+                {
+                    "query": "Explain how Zenmap performs network scanning.",
+                    "label": 0.8
+                },
+                {
+                    "query": "What is port scanning?",
+                    "label": 0.3
+                }
+            ]
+        },
+        {
+            "title": "Protecting a Device with Malwarebytes",
+            "description": "Duration: Duration is\n55 mins. Learners: 14511 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 02 Mar 2023.",
+            "queries": [
+                {
+                    "query": "What is Protecting a Device with Malwarebytes?",
+                    "label": 1.0
+                },
+                {
+                    "query": "How does Malwarebytes defend against malware?",
+                    "label": 0.8
+                },
+                {
+                    "query": "What is antivirus software?",
+                    "label": 0.3
+                }
+            ]
+        },
+        {
+            "title": "Security and Compliance Services",
+            "description": "Duration: Duration is\n2 hrs 12 mins. Learners: 29 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 28 Jan 2023.",
+            "queries": [
+                {
+                    "query": "What is Security and Compliance Services?",
+                    "label": 1.0
+                },
+                {
+                    "query": "Describe compliance in security services.",
+                    "label": 0.8
+                },
+                {
+                    "query": "What is multi-cloud infrastructure?",
+                    "label": 0.2
+                }
+            ]
+        },
+        {
+            "title": "Container Security",
+            "description": "Duration: Duration is\n30 mins. Learners: 14 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 28 Jun 2023.",
+            "queries": [
+                {
+                    "query": "What is Container Security?",
+                    "label": 1.0
+                },
+                {
+                    "query": "Explain the principles of container security.",
+                    "label": 0.8
+                },
+                {
+                    "query": "What is cloud storage?",
+                    "label": 0.2
+                }
+            ]
+        },
+        {
+            "title": "Architecture Considerations for IBM Cloud Security",
+            "description": "Duration: Duration is\n30 mins. Learners: 34 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 07 Oct 2023.",
+            "queries": [
+                {
+                    "query": "What is Architecture Considerations for IBM Cloud Security?",
+                    "label": 1.0
+                },
+                {
+                    "query": "Explain IBM Cloud security architecture.",
+                    "label": 0.8
+                },
+                {
+                    "query": "What is multi-cloud infrastructure?",
+                    "label": 0.3
+                }
+            ]
+        }
+    ]
+}

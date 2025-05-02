@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "title": "Data Security",
+      "description": "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023.",
+      "queries": [
+        {"query": "What is Data Security?", "label": 1.0},
+        {"query": "Define data security.", "label": 1.0},
+        {"query": "Explain data security.", "label": 1.0},
+        {"query": "How do you protect data?", "label": 0.9},
+        {"query": "What measures ensure data security?", "label": 0.9},
+        {"query": "Discuss best practices for data protection.", "label": 0.8},
+        {"query": "How can data be safeguarded?", "label": 0.9},
+        {"query": "Describe methods to secure data.", "label": 0.9},
+        {"query": "What are the key principles of data security?", "label": 1.0},
+        {"query": "Outline the strategies for protecting data.", "label": 0.8},
+        {"query": "What is the role of encryption in data security?", "label": 0.8},
+        {"query": "List common data protection techniques.", "label": 0.8},
+        {"query": "How does access control improve data security?", "label": 0.8},
+        {"query": "What challenges exist in data security?", "label": 0.7},
+        {"query": "How can data be kept secure from hackers?", "label": 0.9},
+        {"query": "Explain the importance of data security in business.", "label": 1.0},
+        {"query": "How is data security maintained in cloud environments?", "label": 0.8},
+        {"query": "What policies support data security?", "label": 0.7},
+        {"query": "How do organizations implement data security measures?", "label": 0.8},
+        {"query": "What is the impact of poor data security?", "label": 0.6}
+      ]
+    },
+    {
+      "title": "Storage Security Options",
+      "description": "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023.",
+      "queries": [
+        {"query": "What is Storage Security Options?", "label": 1.0},
+        {"query": "Define storage security.", "label": 1.0},
+        {"query": "Explain storage security options.", "label": 1.0},
+        {"query": "How do you secure storage systems?", "label": 0.9},
+        {"query": "Describe storage access control mechanisms.", "label": 0.9},
+        {"query": "What methods are used for storage security?", "label": 0.9},
+        {"query": "List techniques to protect storage systems.", "label": 0.8},
+        {"query": "What are the challenges in securing storage infrastructure?", "label": 0.8},
+        {"query": "How can storage be protected from unauthorized access?", "label": 0.9},
+        {"query": "Discuss best practices for storage security.", "label": 0.8},
+        {"query": "What role does encryption play in storage security?", "label": 0.8},
+        {"query": "How do storage security solutions work?", "label": 0.8},
+        {"query": "Explain the importance of storage security in data protection.", "label": 1.0},
+        {"query": "What are the risks associated with unsecured storage?", "label": 0.7},
+        {"query": "How is storage security implemented in cloud systems?", "label": 0.8},
+        {"query": "Describe the protocols used for securing storage.", "label": 0.8},
+        {"query": "What are the benefits of strong storage security?", "label": 0.9},
+        {"query": "How do access controls improve storage security?", "label": 0.8},
+        {"query": "Discuss challenges in managing storage security.", "label": 0.7},
+        {"query": "What innovative methods are available for storage security?", "label": 0.8}
+      ]
+    }
+  ]
+}

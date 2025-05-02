@@ -1,0 +1,67 @@
+{
+    "examples": [
+        {
+            "texts": [
+                "What is Security Basics?",
+                "Duration: Duration is\n1 hr 15 mins. Learners: 9796 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 14 Nov 2022."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Explain the fundamentals of Security Basics.",
+                "Duration: Duration is\n1 hr 15 mins. Learners: 9796 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 14 Nov 2022."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is blockchain technology?",
+                "Duration: Duration is\n1 hr 15 mins. Learners: 9796 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 14 Nov 2022."
+            ],
+            "label": 0.2
+        },
+        {
+            "texts": [
+                "What is Protecting a Device with Malwarebytes?",
+                "Duration: Duration is\n55 mins. Learners: 14511 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 02 Mar 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "How does Malwarebytes protect devices?",
+                "Duration: Duration is\n55 mins. Learners: 14511 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 02 Mar 2023."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is antivirus software?",
+                "Duration: Duration is\n55 mins. Learners: 14511 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 02 Mar 2023."
+            ],
+            "label": 0.3
+        },
+        {
+            "texts": [
+                "What is Architecture Considerations for IBM Cloud Security?",
+                "Duration: Duration is\n30 mins. Learners: 34 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 07 Oct 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Explain IBM Cloud security architecture.",
+                "Duration: Duration is\n30 mins. Learners: 34 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 07 Oct 2023."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is multi-cloud infrastructure?",
+                "Duration: Duration is\n30 mins. Learners: 34 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 07 Oct 2023."
+            ],
+            "label": 0.3
+        }
+    ]
+}

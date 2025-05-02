@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "title": "Data Security",
+      "description": "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023.",
+      "queries": [
+        {"query": "What is Data Security?", "label": 1.0},
+        {"query": "Define data security.", "label": 1.0},
+        {"query": "Explain data security practices.", "label": 1.0},
+        {"query": "How do you protect sensitive data?", "label": 0.9},
+        {"query": "What are the key components of data security?", "label": 1.0},
+        {"query": "Discuss data protection strategies.", "label": 0.8},
+        {"query": "What measures ensure data security?", "label": 0.9},
+        {"query": "How is data encryption used for security?", "label": 0.8},
+        {"query": "What are common threats to data security?", "label": 0.7},
+        {"query": "How can data breaches be prevented?", "label": 0.7},
+        {"query": "Outline best practices for data protection.", "label": 0.8},
+        {"query": "What is the importance of data security in business?", "label": 1.0},
+        {"query": "How is data integrity maintained?", "label": 0.9},
+        {"query": "Which tools are used for data security monitoring?", "label": 0.8},
+        {"query": "Discuss the role of access controls in data security.", "label": 0.9},
+        {"query": "What policies support robust data security?", "label": 0.7},
+        {"query": "How do you secure data in cloud environments?", "label": 0.8},
+        {"query": "What are the challenges in data security implementation?", "label": 0.7},
+        {"query": "How does regulatory compliance affect data security?", "label": 0.8},
+        {"query": "What encryption standards are common in data security?", "label": 0.8}
+      ]
+    },
+    {
+      "title": "Storage Security Options",
+      "description": "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023.",
+      "queries": [
+        {"query": "What is Storage Security Options?", "label": 1.0},
+        {"query": "Define storage security.", "label": 1.0},
+        {"query": "Explain storage security options.", "label": 1.0},
+        {"query": "How do you secure storage systems?", "label": 0.9},
+        {"query": "Describe storage access control mechanisms.", "label": 0.9},
+        {"query": "What methods are used for storage security?", "label": 0.9},
+        {"query": "List techniques to protect storage systems.", "label": 0.8},
+        {"query": "What are the challenges in securing storage infrastructure?", "label": 0.8},
+        {"query": "How can storage be protected from unauthorized access?", "label": 0.9},
+        {"query": "Discuss best practices for storage security.", "label": 0.8},
+        {"query": "What role does encryption play in storage security?", "label": 0.8},
+        {"query": "How do storage security solutions work?", "label": 0.8},
+        {"query": "Explain the importance of storage security in data protection.", "label": 1.0},
+        {"query": "What are the risks associated with unsecured storage?", "label": 0.7},
+        {"query": "How is storage security implemented in cloud systems?", "label": 0.8},
+        {"query": "Describe the protocols used for securing storage.", "label": 0.8},
+        {"query": "What are the benefits of strong storage security?", "label": 0.9},
+        {"query": "How do access controls improve storage security?", "label": 0.8},
+        {"query": "Discuss challenges in managing storage security.", "label": 0.7},
+        {"query": "What innovative methods are available for storage security?", "label": 0.8},
+        {"query": "How can storage vulnerabilities be minimized?", "label": 0.8},
+        {"query": "What strategies reduce risks in storage security?", "label": 0.8},
+        {"query": "Detail methods to enhance storage protection.", "label": 0.9},
+        {"query": "What are key trends in storage security?", "label": 0.7},
+        {"query": "How do modern storage security solutions differ from traditional ones?", "label": 0.8},
+        {"query": "Explain the impact of poor storage security on data loss.", "label": 0.7},
+        {"query": "What compliance standards affect storage security?", "label": 0.8},
+        {"query": "How does multi-factor authentication improve storage security?", "label": 0.8}
+      ]
+    }
+  ]
+}

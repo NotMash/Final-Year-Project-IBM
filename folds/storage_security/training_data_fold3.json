@@ -1,0 +1,59 @@
+{
+  "courses": [
+    {
+      "title": "Data Security",
+      "description": "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023.",
+      "queries": [
+        {"query": "What is Data Security?", "label": 1.0},
+        {"query": "Define data security.", "label": 1.0},
+        {"query": "Explain data security practices.", "label": 1.0},
+        {"query": "How do you protect sensitive data?", "label": 0.9},
+        {"query": "What are the key components of data security?", "label": 1.0},
+        {"query": "Discuss data protection strategies.", "label": 0.8},
+        {"query": "What measures ensure data security?", "label": 0.9},
+        {"query": "How is data encrypted for security purposes?", "label": 0.8},
+        {"query": "What are common threats to data security?", "label": 0.7},
+        {"query": "How do you secure data in cloud environments?", "label": 0.8},
+        {"query": "Outline the best practices for data security.", "label": 0.9},
+        {"query": "What policies are required for robust data security?", "label": 0.7},
+        {"query": "How is access control implemented for data protection?", "label": 0.8},
+        {"query": "What role does encryption play in data security?", "label": 0.8},
+        {"query": "How can data breaches be prevented?", "label": 0.7},
+        {"query": "Explain the importance of data integrity and confidentiality.", "label": 1.0},
+        {"query": "What security standards are used to protect data?", "label": 0.8},
+        {"query": "How do organizations maintain data security during digital transformation?", "label": 0.8},
+        {"query": "Discuss the impact of poor data security on business.", "label": 0.6},
+        {"query": "What tools are essential for data security monitoring?", "label": 0.7}
+      ]
+    },
+    {
+      "title": "Storage Security Options",
+      "description": "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023.",
+      "queries": [
+        {"query": "What is Storage Security Options?", "label": 1.0},
+        {"query": "Define storage security.", "label": 1.0},
+        {"query": "Explain storage security options.", "label": 1.0},
+        {"query": "How do you secure storage systems?", "label": 0.9},
+        {"query": "What techniques protect storage infrastructure?", "label": 0.8},
+        {"query": "Discuss storage access control mechanisms.", "label": 0.9},
+        {"query": "What are the best practices for storage security?", "label": 0.9},
+        {"query": "How is encryption used in securing storage systems?", "label": 0.8},
+        {"query": "What challenges exist in securing storage infrastructure?", "label": 0.8},
+        {"query": "How do you manage storage security in cloud environments?", "label": 0.8},
+        {"query": "Outline methods for protecting data storage.", "label": 0.9},
+        {"query": "What are common vulnerabilities in storage systems?", "label": 0.7},
+        {"query": "How can storage be safeguarded from cyber threats?", "label": 0.9},
+        {"query": "What role do firewalls and access controls play in storage security?", "label": 0.8},
+        {"query": "Describe modern storage security solutions.", "label": 0.8},
+        {"query": "What is the impact of insecure storage on data integrity?", "label": 0.7},
+        {"query": "How do you implement multi-factor authentication for storage access?", "label": 0.8},
+        {"query": "What innovative methods are available for storage security?", "label": 0.8},
+        {"query": "How can storage vulnerabilities be minimized?", "label": 0.8},
+        {"query": "What strategies reduce risks in storage security?", "label": 0.8},
+        {"query": "Detail methods to enhance storage protection.", "label": 0.9},
+        {"query": "What are key trends in storage security?", "label": 0.7},
+        {"query": "How do modern storage security solutions differ from traditional ones?", "label": 0.8}
+      ]
+    }
+  ]
+}

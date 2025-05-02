@@ -1,0 +1,46 @@
+{
+    "examples": [
+        {
+            "texts": [
+                "What is Cyber Security Tutorial | Cyber Security Training For Beginners | Cyber Security | Simplilearn?",
+                "Duration: Duration is\n1 hr 13 mins. Learners: 7892 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 29 May 2020."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is IBM Cloud Security Services?",
+                "Duration: Duration is\n30 mins. Learners: 75 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 14 Jan 2024."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Security and Compliance Services?",
+                "Duration: Duration is\n2 hrs 12 mins. Learners: 29 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 28 Jan 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "What is Container Security?",
+                "Duration: Duration is\n30 mins. Learners: 14 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 28 Jun 2023."
+            ],
+            "label": 1.0
+        },
+        {
+            "texts": [
+                "Explain the principles of container security.",
+                "Duration: Duration is\n30 mins. Learners: 14 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 28 Jun 2023."
+            ],
+            "label": 0.8
+        },
+        {
+            "texts": [
+                "What is multi-cloud infrastructure?",
+                "Duration: Duration is\n30 mins. Learners: 34 learners have completed this activity in the past 12 months.. Available: Available in SB4A since 07 Oct 2023."
+            ],
+            "label": 0.3
+        }
+    ]
+}

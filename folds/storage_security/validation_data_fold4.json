@@ -1,0 +1,74 @@
+{
+  "examples": [
+    {
+      "texts": [
+        "What is Data Security?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How can organizations protect sensitive data?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "Explain the key components of data security.",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "What are the common methods used to secure data?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "Why is data security important in business?",
+        "Duration is\n30 mins. Learners: 43 learners have completed this activity. Available in SB4A since 28 Jun 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "Define Storage Security Options.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 1.0
+    },
+    {
+      "texts": [
+        "How do you implement security for storage systems?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.9
+    },
+    {
+      "texts": [
+        "What are the main techniques for protecting data storage?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "Explain the role of encryption in storage security.",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.8
+    },
+    {
+      "texts": [
+        "What challenges do organizations face in securing storage infrastructure?",
+        "Duration is\n30 mins. Learners: 5 learners have completed this activity. Available in SB4A since 15 Sep 2023."
+      ],
+      "label": 0.7
+    }
+  ]
+}
