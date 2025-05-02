@@ -9,6 +9,7 @@ from transformers import AdamW
 import torch.nn as nn
 import torch
 import random
+from os.path import exists
 
 
 def load_all_training_data(domain_dir, max_folds=3):
@@ -69,6 +70,9 @@ def enhanced_evaluation(model, val_examples):
 
 
 def build_custom_model(base_model_path):
+    if not exists(base_model_path):
+        print(f"Warning: base model path '{base_model_path}' does not exist. Falling back to default model.")
+        base_model_path = "sentence-transformers/all-MiniLM-L6-v2"
     word_embedding_model = models.Transformer(base_model_path)
     pooling_model = models.Pooling(
         word_embedding_model.get_word_embedding_dimension(),
@@ -144,7 +148,7 @@ def continuous_fine_tune(base_model_path, domain_dirs, epochs_per_domain=8, batc
 
 def main():
     base_model_path = "sentence-transformers/all-MiniLM-L6-v2_continuous/fine_tuned_model_2"
-    base_folds_dir = "folds"
+    base_folds_dir = "../../folds"
     domain_folders = ["storage_security", "compliance", "network_security"]
     domain_dirs = [os.path.join(base_folds_dir, d) for d in domain_folders]
 
