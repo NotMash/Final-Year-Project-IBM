@@ -5,6 +5,9 @@ channels:
 dependencies:
   - python=3.11
   - pip
+  - python=3.11
+  - matplotlib
+  - faiss-cpu
   - pip:
       - accelerate==1.2.1
       - aiohappyeyeballs==2.4.4
@@ -26,7 +29,7 @@ dependencies:
       - distro==1.9.0
       - einops==0.8.0
       - eval_type_backport==0.2.2
-      - faiss==1.9.0
+      - faiss-cpu==1.9.0.post1
       - faiss-cpu==1.9.0.post1
       - fastapi==0.115.6
       - filelock==3.16.1
