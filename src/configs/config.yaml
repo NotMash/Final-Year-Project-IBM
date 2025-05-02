@@ -1,3 +1,3 @@
-model_path: "sentence-transformers/all-MiniLM-L6-v2_continuous/fine_tuned_model_2"
-data_path: "security_courses.json"
+model_path: "fine_tuned_models_path_insert_here/fine_tuned_model_2"
+data_path: "src/course_data/security_courses.json"
 index_path: "faiss_index.index"
