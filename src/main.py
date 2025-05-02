@@ -5,7 +5,7 @@ import yaml
 from sentence_transformers import SentenceTransformer
 from src.retrieval.pipeline import SemanticSearchPipeline
 import os
-
+# To run main, python -m src.main --config src/configs/config.yaml 
 
 def load_config(config_path):
     with open(config_path, 'r') as f:
