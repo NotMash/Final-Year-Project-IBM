@@ -8,6 +8,7 @@ dependencies:
   - python=3.11
   - matplotlib
   - faiss-cpu
+  - faiss-cpu=1.9.0
   - pip:
       - accelerate==1.2.1
       - aiohappyeyeballs==2.4.4
