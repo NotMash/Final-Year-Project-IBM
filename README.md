@@ -3,6 +3,9 @@
 This repository contains the complete source code for a final year Computer Science project focused on building a semantic search engine for IBM SkillsBuild’s cybersecurity courses. It uses SBERT embeddings, FAISS indexing, and a custom fine-tuning + evaluation pipeline benchmarked using MTEB.
 
 ---
+##  Download The Models here
+https://huggingface.co/notMash/fined_tuned_model/tree/main
+
 
 ##  Project Structure
 
