@@ -4,13 +4,13 @@ This repository contains the complete source code for a final year Computer Scie
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 final-year-project/
 ├── fine_tuned_models_path_insert_here/
 │   ├── .gitkeep                  # Placeholder (delete this)
-│   ├── fine_tuned_model_1/      # add from hugging face first fine-tuned model
+│   ├── fine_tuned_model/      # add from hugging face first fine-tuned model
 │   └── fine_tuned_model_2/      # add second from hugging face fine-tuned model
 ├── folds/                       # Cross-validation splits
 ├── MTEB/                        # MTEB benchmark results
@@ -70,11 +70,21 @@ Then, place your folders like so:
 
 ```
 fine_tuned_models_path_insert_here/
-├── fine_tuned_model_1/
+├── fine_tuned_model/
 ├── fine_tuned_model_2/
 ```
 
 Each folder should include `config.json`, `pytorch_model.bin`, `tokenizer.json`, etc.
+
+---
+
+## Running Main.py
+
+You can main.py using:
+
+```bash
+python -m src.main --config src/configs/config.yaml
+```
 
 ---
 
