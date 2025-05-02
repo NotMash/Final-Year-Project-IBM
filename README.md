@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ## 🚨 Important Step
 
-> Before running the pipeline, **you must delete the `.gitkeep` file** and add your fine-tuned SentenceTransformer models.
+> Before running the pipeline, **you must delete the `.gitkeep` file** and add the fine-tuned SentenceTransformer models.
 
 ```bash
 rm fine_tuned_models_path_insert_here/.gitkeep
