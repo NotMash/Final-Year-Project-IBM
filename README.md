@@ -1,64 +1,101 @@
-# Final Year Project – IBM SkillsBuild Semantic Course Search
+# Final Year Project – IBM SkillsBuild Semantic Search
 
-This project is a semantic search system developed to improve the discovery of cybersecurity-related courses from IBM SkillsBuild. It indexes course descriptions and allows users to search using natural language queries, returning the most relevant matches based on semantic similarity.
+This repository contains the complete source code for a final year Computer Science project focused on building a semantic search engine for IBM SkillsBuild’s cybersecurity courses. It uses SBERT embeddings, FAISS indexing, and a custom fine-tuning + evaluation pipeline benchmarked using MTEB.
 
-This project was developed as part of a final-year Computer Science degree at Queen Mary University of London.
+---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 final-year-project/
+├── fine_tuned_models_path_insert_here/
+│   ├── .gitkeep                  # Placeholder (delete this)
+│   ├── fine_tuned_model_1/      # add from hugging face first fine-tuned model
+│   └── fine_tuned_model_2/      # add second from hugging face fine-tuned model
+├── folds/                       # Cross-validation splits
+├── MTEB/                        # MTEB benchmark results
 ├── src/
-│   ├── data/                      # Dataset loaders
+│   ├── course_data/             # JSON datasets (security_courses.json, unseen_data.json)
+│   ├── data/                    # Dataset loaders
 │   ├── model_training_evaluation/ # Training and evaluation scripts
-│   ├── retrieval/                 # Search pipeline and indexing
-│   └── course_data/              # JSON dataset of courses
-├── tests/                        # Unit tests
-├── environment.yml               # Conda environment
-├── requirements.txt              # pip-based dependencies
+│   └── retrieval/               # SemanticSearchPipeline and indexing
+├── tests/                       # Unit tests for core functionality
+├── environment.yml              # Conda environment definition
+├── requirements.txt             # pip dependencies (if not using Conda)
+├── .env                         # Optional environment variables
+├── .gitignore                   # Files to ignore in Git
+├── faiss_index.index            # Example index (can be regenerated)
 └── README.md
 ```
 
-## Features
+---
 
-- Embeds and indexes cybersecurity course data.
-- Provides a search interface using semantic similarity.
-- Tested pipeline with unit coverage.
-- Designed for reproducibility across machines.
+## 🔧 Setup Instructions
 
-## Getting Started
+### 1. Clone the Repository
 
-1. Clone the repository:
+```bash
+git clone https://github.com/NotMash/Final-Year-Project-IBM.git
+cd Final-Year-Project-IBM
+```
 
-   ```bash
-   git clone https://github.com/NotMash/Final-Year-Project-IBM.git
-   cd Final-Year-Project-IBM
-   ```
+### 2. Create Conda Environment
 
-2. Create the environment using Conda:
+To set up your environment using the included YAML file:
 
-   ```bash
-   conda env create -f environment.yml
-   conda activate finalyearproject
-   ```
+```bash
+conda env create -f environment.yml
+conda activate finalyearproject
+```
 
-3. Run the test suite:
+Alternatively, if you are using pip:
 
-   ```bash
-   pytest tests/
-   ```
+```bash
+python -m venv venv
+source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+pip install -r requirements.txt
+```
 
-## Evaluation Metrics
+---
 
-The system was evaluated using unseen courses and assessed based on:
+## 🚨 Important Step
 
-- Mean and max cosine similarity
-- Mean Absolute Error (MAE)
-- Spearman Correlation
-- Embedding latency
+> Before running the pipeline, **you must delete the `.gitkeep` file** and add your fine-tuned SentenceTransformer models.
 
-Evaluation results are available in the `embedding_results/` directory.
+```bash
+rm fine_tuned_models_path_insert_here/.gitkeep
+```
+
+Then, place your folders like so:
+
+```
+fine_tuned_models_path_insert_here/
+├── fine_tuned_model_1/
+├── fine_tuned_model_2/
+```
+
+Each folder should include `config.json`, `pytorch_model.bin`, `tokenizer.json`, etc.
+
+---
+
+## Running Tests
+
+You can run all tests using:
+
+```bash
+pytest tests/
+```
+
+---
+
+## Notes
+
+- All paths are relative and designed to work across machines.
+- Ensure `security_courses.json` is present in `src/course_data/`.
+- The FAISS index file will be regenerated if not found.
+
+---
 
 ## License
 
-This project is distributed for academic and educational purposes. Please refer to the LICENSE file if included.
+This project is provided for educational use only. Commercial use is not permitted.
