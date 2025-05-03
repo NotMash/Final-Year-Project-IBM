@@ -6,6 +6,7 @@ This repository contains the complete source code for a final year Computer Scie
 ##  Download The Models here
 https://huggingface.co/notMash/fined_tuned_model/tree/main
 
+## Note ^ This is not needed if you're cloning from hugging_face directly
 
 ##  Project Structure
 
@@ -33,7 +34,7 @@ final-year-project/
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -42,16 +43,24 @@ git clone https://github.com/NotMash/Final-Year-Project-IBM.git
 cd Final-Year-Project-IBM
 ```
 
-### 2. Create Conda Environment
+### 2. Create Conda Environment Mac Or Windows
 
 To set up your environment using the included YAML file:
 
-```bash
+### 2.1. MacOS
+```bash on MacOS
 conda env create -f environment.yml
 conda activate finalyearproject
 ```
+### 2.1. Windows
+```bash on Windows
+conda env create -f environment_windows.yml
+conda activate finalyearproject
+```
 
-Alternatively, if you are using pip:
+## Note Set The Conda As the interpreter
+
+Alternatively, if you are using pip but I recommend CONDA:
 
 ```bash
 python -m venv venv
@@ -61,7 +70,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚨 Important Step
+##  Important Step
 
 > Before running the pipeline, **you must delete the `.gitkeep` file** and add the fine-tuned SentenceTransformer models.
 
@@ -90,6 +99,8 @@ python -m src.main --config src/configs/config.yaml
 ```
 
 ---
+
+
 
 ## Running Tests
 
