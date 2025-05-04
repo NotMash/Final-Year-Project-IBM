@@ -7,7 +7,7 @@ dependencies:
   - pip
   - numpy
   - matplotlib
-  - faiss-cpu=1.9.0  # Windows-compatible FAISS
+  - faiss-cpu=1.9.0
   - fonttools
   - freetype
   - jpeg

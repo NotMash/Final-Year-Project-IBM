@@ -2,7 +2,7 @@ import sys
 import os
 import pytest
 
-# Make 'src' importable regardless of where pytest is run from
+
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 SRC_DIR = os.path.join(PROJECT_ROOT, 'src')
 sys.path.insert(0, SRC_DIR)
@@ -10,7 +10,7 @@ sys.path.insert(0, SRC_DIR)
 from src.retrieval.pipeline import SemanticSearchPipeline
 from src.data.loader import load_dataset
 
-# Fully resolved relative paths to key files
+
 MODEL_PATH = os.path.join(PROJECT_ROOT, 'fine_tuned_models_path_insert_here', 'fine_tuned_model_2')
 DATA_PATH = os.path.join(SRC_DIR, 'course_data', 'security_courses.json')
 INDEX_PATH = os.path.join(PROJECT_ROOT, 'test_faiss_index.index')

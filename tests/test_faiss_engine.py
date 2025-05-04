@@ -15,7 +15,6 @@ def test_create_faiss_index_small():
     embeddings = np.random.rand(10, 128).astype('float32')
     index = create_faiss_index(embeddings)
 
-    # Accept IndexFlatIP (used for cosine similarity) or fallback
     assert isinstance(index, (faiss.IndexFlatIP, faiss.IndexFlatL2))
     assert index.ntotal == embeddings.shape[0]
 

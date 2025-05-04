@@ -45,7 +45,7 @@ def extract_description(course):
                     parts.append(line.strip())
         if parts:
             return " ".join(parts)
-    # Fallback
+    # Fallback incase
     duration = course.get("Duration", "").strip()
     learners = course.get("Learners Completed", "").strip()
     available = course.get("Available Since", "").strip()
@@ -67,7 +67,7 @@ def evaluate_model(model_name, model, courses):
         description = extract_description(course)
         query = f"What is {title}?"
 
-        # A simple heuristic based on description length
+        # heuristic based on description length
         desc_len = len(description)
         if desc_len > 0:
             expected_relevance = min(1.0, 0.5 + (desc_len / 1000))
@@ -84,13 +84,12 @@ def evaluate_model(model_name, model, courses):
         total_time += encoding_time
         num_embeddings += 2
 
-        # Normalized cosine similarity
         cosine_similarity = np.dot(course_embedding, query_embedding) / (
                 np.linalg.norm(course_embedding) * np.linalg.norm(query_embedding)
         )
         normalized_similarity = (cosine_similarity + 1) / 2
 
-        # Print intermediate results
+        # Print immediate results
         print(f"  Course: {title}")
         print(f"    Description length: {desc_len}")
         print(f"    Expected relevance: {expected_relevance:.4f}")
@@ -140,10 +139,10 @@ def visualize_results(results, model_name, output_dir):
     predicted = np.array([r["cosine_similarity"] for r in results])
     titles = [r["title"] for r in results]
 
-    # Scatter
+    # Scatter plotts
     plt.scatter(expected, predicted, alpha=0.7, s=80)
 
-    # Annotate points with <0.5 predicted similarity
+
     for i, title in enumerate(titles):
         if predicted[i] < 0.5:
             plt.annotate(title, (expected[i], predicted[i]),
@@ -157,7 +156,7 @@ def visualize_results(results, model_name, output_dir):
     plt.ylabel("Cosine Similarity (Normalized)")
     plt.title(f"Expected vs. Actual Similarity - {model_name}")
 
-    # Extra stats box
+
     mse_val = mean_squared_error(expected, predicted)
     mae_val = mean_absolute_error(expected, predicted)
     box_text = (
@@ -188,12 +187,12 @@ def visualize_model_comparison(models, metric_values, metric_name, color, output
 
     plt.figure(figsize=(12, 6))
 
-    # Convert NaN -> 0 for plotting
+
     plot_vals = [0 if np.isnan(x) else x for x in metric_values]
 
     bars = plt.bar(models, plot_vals, color=color, alpha=0.7)
 
-    # Add value labels
+
     for i, bar in enumerate(bars):
         height = bar.get_height()
         if not np.isnan(metric_values[i]):
@@ -220,8 +219,7 @@ def create_correlation_matrix(models, all_model_results, output_dir):
     Create a Spearman correlation matrix between model_training_evaluation predictions.
     """
 
-
-    # Gather model_training_evaluation predictions
+    # Gatherin model_training_evaluation predictions
     model_predictions = {m: [] for m in models}
     for res in all_model_results:
         model_predictions[res["model_training_evaluation"]].append(res["cosine_similarity"])
@@ -281,7 +279,7 @@ def create_performance_radar(models, metrics, output_dir):
         vals = []
         for mkey in metrics_names:
             vals.append(metrics[mkey][idx])
-        # Turn NaN -> 0
+
         vals = [0 if np.isnan(x) else x for x in vals]
         # close the loop
         vals += vals[:1]
@@ -336,9 +334,7 @@ def print_summary_statistics(models, all_metrics):
     print("SUMMARY OF RESULTS".center(80))
     print("=" * 80)
 
-    # We'll track these metrics
-    # Decide which are 'lower is better' vs 'higher is better'
-    # Higher is better for correlation & similarity, lower is better for MSE, MAE, Time
+
     metric_info = [
         ("Mean Similarity", all_metrics["mean_similarity"], False),
         ("Max Similarity", all_metrics["max_similarity"], False),
@@ -349,11 +345,11 @@ def print_summary_statistics(models, all_metrics):
         ("Spearman Correlation", all_metrics["sts_correlation"], False)
     ]
 
-    # Find best index for each metric
+
     best_idx_for_metric = {}
     for (metric_label, values, lower_is_better) in metric_info:
         arr = np.array(values)
-        # Convert NaN -> e.g. large for lower-is-better, or small for higher-is-better
+
         if lower_is_better:
             arr = np.where(np.isnan(arr), np.inf, arr)
             best_idx = arr.argmin()
@@ -362,13 +358,13 @@ def print_summary_statistics(models, all_metrics):
             best_idx = arr.argmax()
         best_idx_for_metric[metric_label] = best_idx
 
-    # Table header
+    # Table headerss
     col_headers = [m[0] for m in metric_info]
     header_line = f"{'Model':<25}" + "".join(f"{h:<20}" for h in col_headers)
     print(header_line)
     print("-" * len(header_line))
 
-    # Print rows
+    # Print rowss
     for i, model_name in enumerate(models):
         row_str = f"{model_name:<25}"
         for (metric_label, values, _) in metric_info:
@@ -389,7 +385,7 @@ def print_summary_statistics(models, all_metrics):
 
 
 def main():
-    # Models you want to compare
+    # Models comparison
     model_paths = {
         "all-MiniLM-L6-v2": "sentence-transformers/all-MiniLM-L6-v2",
         "all-mpnet-base-v2": "sentence-transformers/all-mpnet-base-v2",
@@ -419,7 +415,7 @@ def main():
         traceback.print_exc()
         return
 
-    # We'll store aggregated results for final stats
+    #  aggregated results for final stats
     models_list = []
     mean_sims = []
     max_sims = []
@@ -463,7 +459,7 @@ def main():
             min_sims.append(min_sim)
             times.append(avg_time)
 
-            # Visualize scatter/hist
+
             visualize_results(results, model_name, output_dir)
 
         except Exception as e:
@@ -490,11 +486,11 @@ def main():
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(summary, f, indent=4, cls=NumpyEncoder)
 
-    # Print final table
+
     if models_list:
         print_summary_statistics(models_list, summary["metrics"])
 
-    # Create bar charts
+
     if models_list:
         visualize_model_comparison(models_list, mean_sims, "Mean Similarity Score", "blue",
                                    output_dir, "mean_similarity.png")
@@ -514,7 +510,7 @@ def main():
         # Correlation matrix
         create_correlation_matrix(models_list, all_model_results, output_dir)
 
-        # Radar
+        # Radarr
         rad_metrics = {
             "Mean Similarity": mean_sims,
             "Max Similarity": max_sims,

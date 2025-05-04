@@ -1,4 +1,4 @@
-# Refactored Project Entry Point for CLI Use
+
 
 import argparse
 import yaml
@@ -19,7 +19,6 @@ def main():
 
     config = load_config(args.config)
 
-    # Test model_training_evaluation loading first
     print("\n Testing model_training_evaluation loading...")
     model_path = config['model_path']
     print(f"🔍 Using model_training_evaluation from config: '{model_path}'")
@@ -30,7 +29,6 @@ def main():
         model = SentenceTransformer(model_path)
         print(" Model loaded successfully!")
 
-        # Try a simple encoding
         text = "This is a test."
         embedding = model.encode(text)
         print(f"🧪 Test encoding shape: {embedding.shape}")
