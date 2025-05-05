@@ -11,25 +11,59 @@ https://huggingface.co/notMash/fined_tuned_model/tree/main
 ##  Project Structure
 
 ```
-final-year-project/
+Final-Year-Project-IBM-SkillsBuild-Final/
 ├── fine_tuned_models_path_insert_here/
-│   ├── .gitkeep                  # Placeholder (delete this)
-│   ├── fine_tuned_model/      # add from hugging face first fine-tuned model
-│   └── fine_tuned_model_2/      # add second from hugging face fine-tuned model
-├── folds/                       # Cross-validation splits
-├── MTEB/                        # MTEB benchmark results
+│   ├── fine_tuned_model/
+│   ├── fine_tuned_model_2/
+│   └── .gitkeep
+│
+├── folds/
+│   ├── compliance/
+│   ├── network_security/
+│   ├── original/
+│   └── storage_security/
+│
+├── MTEB/
+│   ├── results/
+│   ├── mteb_test.py
+│   └── mtebBarChart.py
+│
 ├── src/
-│   ├── course_data/             # JSON datasets (security_courses.json, unseen_data.json)
-│   ├── data/                    # Dataset loaders
-│   ├── model_training_evaluation/ # Training and evaluation scripts
-│   └── retrieval/               # SemanticSearchPipeline and indexing
-├── tests/                       # Unit tests for core functionality
-├── environment.yml              # Conda environment definition
-├── requirements.txt             # pip dependencies (if not using Conda)
-├── .env                         # Optional environment variables
-├── .gitignore                   # Files to ignore in Git
-├── faiss_index.index            # Example index (can be regenerated)
+│   ├── configs/
+│   │   └── config.yaml
+│   │
+│   ├── course_data/
+│   │   ├── security_courses.json
+│   │   └── unseen_data.json
+│   │
+│   ├── data/
+│   │   └── loader.py
+│   │
+│   ├── model_training_evaluation/
+│   │   ├── train.py
+│   │   ├── evaluation.py
+│   │   └── embedding_results/
+│   │
+│   └── retrieval/
+│       ├── __init__.py
+│       ├── faiss_engine.py
+│       ├── pipeline.py
+│       └── main.py
+│
+├── tests/
+│   ├── test_faiss_engine.py
+│   ├── test_loader.py
+│   └── test_pipeline.py
+│
+├── faiss_index.index
+├── .env
+├── .gitignore
+├── .gitattributes
+├── environment.yml
+├── environment_windows.yml
+├── requirements.txt
 └── README.md
+
 ```
 
 ---
